@@ -1,0 +1,7 @@
+{
+    "name": "ganlvtech/fifedu-spider",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "license": "AGPL-3.0"
+}
